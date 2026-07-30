@@ -1,2 +1,1 @@
-# fouderlab-aisa
-read the sisi boss
+# founderlab-aisa (FounderLab AI — Built for founders, builders, and creators. Fast, smart, and fully open. Powered by local models and top-tier AI providers.)
