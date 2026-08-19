@@ -80,7 +80,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+.dist
 .output
 
 # Gatsby files
@@ -105,7 +105,7 @@ dist
 **/.vitepress/cache
 
 # Docusaurus cache and generated files
-.docusaurus
+docusaurus
 
 # Serverless directories
 .serverless/
@@ -130,7 +130,7 @@ dist
 
 # yarn v3
 .pnp.*
-.yarn/*
+yarn/*
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
@@ -141,3 +141,4 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
